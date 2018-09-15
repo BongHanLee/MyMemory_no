@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F75B1C5A214D47A700E14B1D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F75B1C59214D47A700E14B1D /* AppDelegate.swift */; };
-		F75B1C5F214D47A700E14B1D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F75B1C5D214D47A700E14B1D /* Main.storyboard */; };
-		F75B1C62214D47A700E14B1D /* MyMemory.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F75B1C60214D47A700E14B1D /* MyMemory.xcdatamodeld */; };
-		F75B1C64214D47A900E14B1D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F75B1C63214D47A900E14B1D /* Assets.xcassets */; };
-		F75B1C67214D47A900E14B1D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F75B1C65214D47A900E14B1D /* LaunchScreen.storyboard */; };
+		F75B1C39214CEDD200E14B1D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F75B1C38214CEDD200E14B1D /* AppDelegate.swift */; };
+		F75B1C3E214CEDD200E14B1D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F75B1C3C214CEDD200E14B1D /* Main.storyboard */; };
+		F75B1C41214CEDD200E14B1D /* MyMemory.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F75B1C3F214CEDD200E14B1D /* MyMemory.xcdatamodeld */; };
+		F75B1C43214CEDD300E14B1D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F75B1C42214CEDD300E14B1D /* Assets.xcassets */; };
+		F75B1C46214CEDD300E14B1D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F75B1C44214CEDD300E14B1D /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F75B1C56214D47A700E14B1D /* MyMemory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyMemory.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F75B1C59214D47A700E14B1D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F75B1C5E214D47A700E14B1D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		F75B1C61214D47A700E14B1D /* MyMemory.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MyMemory.xcdatamodel; sourceTree = "<group>"; };
-		F75B1C63214D47A900E14B1D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		F75B1C66214D47A900E14B1D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		F75B1C68214D47A900E14B1D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F75B1C35214CEDD200E14B1D /* MyMemory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyMemory.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F75B1C38214CEDD200E14B1D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		F75B1C3D214CEDD200E14B1D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F75B1C40214CEDD200E14B1D /* MyMemory.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MyMemory.xcdatamodel; sourceTree = "<group>"; };
+		F75B1C42214CEDD300E14B1D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F75B1C45214CEDD300E14B1D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		F75B1C47214CEDD300E14B1D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F75B1C53214D47A700E14B1D /* Frameworks */ = {
+		F75B1C32214CEDD200E14B1D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,31 +35,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F75B1C4D214D47A700E14B1D = {
+		F75B1C2C214CEDD200E14B1D = {
 			isa = PBXGroup;
 			children = (
-				F75B1C58214D47A700E14B1D /* MyMemory */,
-				F75B1C57214D47A700E14B1D /* Products */,
+				F75B1C37214CEDD200E14B1D /* MyMemory */,
+				F75B1C36214CEDD200E14B1D /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F75B1C57214D47A700E14B1D /* Products */ = {
+		F75B1C36214CEDD200E14B1D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F75B1C56214D47A700E14B1D /* MyMemory.app */,
+				F75B1C35214CEDD200E14B1D /* MyMemory.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F75B1C58214D47A700E14B1D /* MyMemory */ = {
+		F75B1C37214CEDD200E14B1D /* MyMemory */ = {
 			isa = PBXGroup;
 			children = (
-				F75B1C59214D47A700E14B1D /* AppDelegate.swift */,
-				F75B1C5D214D47A700E14B1D /* Main.storyboard */,
-				F75B1C63214D47A900E14B1D /* Assets.xcassets */,
-				F75B1C65214D47A900E14B1D /* LaunchScreen.storyboard */,
-				F75B1C68214D47A900E14B1D /* Info.plist */,
-				F75B1C60214D47A700E14B1D /* MyMemory.xcdatamodeld */,
+				F75B1C38214CEDD200E14B1D /* AppDelegate.swift */,
+				F75B1C3C214CEDD200E14B1D /* Main.storyboard */,
+				F75B1C42214CEDD300E14B1D /* Assets.xcassets */,
+				F75B1C44214CEDD300E14B1D /* LaunchScreen.storyboard */,
+				F75B1C47214CEDD300E14B1D /* Info.plist */,
+				F75B1C3F214CEDD200E14B1D /* MyMemory.xcdatamodeld */,
 			);
 			path = MyMemory;
 			sourceTree = "<group>";
@@ -67,13 +67,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F75B1C55214D47A700E14B1D /* MyMemory */ = {
+		F75B1C34214CEDD200E14B1D /* MyMemory */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F75B1C6B214D47A900E14B1D /* Build configuration list for PBXNativeTarget "MyMemory" */;
+			buildConfigurationList = F75B1C4A214CEDD300E14B1D /* Build configuration list for PBXNativeTarget "MyMemory" */;
 			buildPhases = (
-				F75B1C52214D47A700E14B1D /* Sources */,
-				F75B1C53214D47A700E14B1D /* Frameworks */,
-				F75B1C54214D47A700E14B1D /* Resources */,
+				F75B1C31214CEDD200E14B1D /* Sources */,
+				F75B1C32214CEDD200E14B1D /* Frameworks */,
+				F75B1C33214CEDD200E14B1D /* Resources */,
 			);
 			buildRules = (
 			);
@@ -81,25 +81,25 @@
 			);
 			name = MyMemory;
 			productName = MyMemory;
-			productReference = F75B1C56214D47A700E14B1D /* MyMemory.app */;
+			productReference = F75B1C35214CEDD200E14B1D /* MyMemory.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F75B1C4E214D47A700E14B1D /* Project object */ = {
+		F75B1C2D214CEDD200E14B1D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0940;
 				LastUpgradeCheck = 0940;
 				ORGANIZATIONNAME = bongMac;
 				TargetAttributes = {
-					F75B1C55214D47A700E14B1D = {
+					F75B1C34214CEDD200E14B1D = {
 						CreatedOnToolsVersion = 9.4.1;
 					};
 				};
 			};
-			buildConfigurationList = F75B1C51214D47A700E14B1D /* Build configuration list for PBXProject "MyMemory" */;
+			buildConfigurationList = F75B1C30214CEDD200E14B1D /* Build configuration list for PBXProject "MyMemory" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -107,54 +107,54 @@
 				en,
 				Base,
 			);
-			mainGroup = F75B1C4D214D47A700E14B1D;
-			productRefGroup = F75B1C57214D47A700E14B1D /* Products */;
+			mainGroup = F75B1C2C214CEDD200E14B1D;
+			productRefGroup = F75B1C36214CEDD200E14B1D /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F75B1C55214D47A700E14B1D /* MyMemory */,
+				F75B1C34214CEDD200E14B1D /* MyMemory */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F75B1C54214D47A700E14B1D /* Resources */ = {
+		F75B1C33214CEDD200E14B1D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F75B1C67214D47A900E14B1D /* LaunchScreen.storyboard in Resources */,
-				F75B1C64214D47A900E14B1D /* Assets.xcassets in Resources */,
-				F75B1C5F214D47A700E14B1D /* Main.storyboard in Resources */,
+				F75B1C46214CEDD300E14B1D /* LaunchScreen.storyboard in Resources */,
+				F75B1C43214CEDD300E14B1D /* Assets.xcassets in Resources */,
+				F75B1C3E214CEDD200E14B1D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F75B1C52214D47A700E14B1D /* Sources */ = {
+		F75B1C31214CEDD200E14B1D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F75B1C62214D47A700E14B1D /* MyMemory.xcdatamodeld in Sources */,
-				F75B1C5A214D47A700E14B1D /* AppDelegate.swift in Sources */,
+				F75B1C41214CEDD200E14B1D /* MyMemory.xcdatamodeld in Sources */,
+				F75B1C39214CEDD200E14B1D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		F75B1C5D214D47A700E14B1D /* Main.storyboard */ = {
+		F75B1C3C214CEDD200E14B1D /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F75B1C5E214D47A700E14B1D /* Base */,
+				F75B1C3D214CEDD200E14B1D /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		F75B1C65214D47A900E14B1D /* LaunchScreen.storyboard */ = {
+		F75B1C44214CEDD300E14B1D /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F75B1C66214D47A900E14B1D /* Base */,
+				F75B1C45214CEDD300E14B1D /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -162,7 +162,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		F75B1C69214D47A900E14B1D /* Debug */ = {
+		F75B1C48214CEDD300E14B1D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -222,7 +222,7 @@
 			};
 			name = Debug;
 		};
-		F75B1C6A214D47A900E14B1D /* Release */ = {
+		F75B1C49214CEDD300E14B1D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -276,7 +276,7 @@
 			};
 			name = Release;
 		};
-		F75B1C6C214D47A900E14B1D /* Debug */ = {
+		F75B1C4B214CEDD300E14B1D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -293,7 +293,7 @@
 			};
 			name = Debug;
 		};
-		F75B1C6D214D47A900E14B1D /* Release */ = {
+		F75B1C4C214CEDD300E14B1D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -313,20 +313,20 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F75B1C51214D47A700E14B1D /* Build configuration list for PBXProject "MyMemory" */ = {
+		F75B1C30214CEDD200E14B1D /* Build configuration list for PBXProject "MyMemory" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F75B1C69214D47A900E14B1D /* Debug */,
-				F75B1C6A214D47A900E14B1D /* Release */,
+				F75B1C48214CEDD300E14B1D /* Debug */,
+				F75B1C49214CEDD300E14B1D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F75B1C6B214D47A900E14B1D /* Build configuration list for PBXNativeTarget "MyMemory" */ = {
+		F75B1C4A214CEDD300E14B1D /* Build configuration list for PBXNativeTarget "MyMemory" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F75B1C6C214D47A900E14B1D /* Debug */,
-				F75B1C6D214D47A900E14B1D /* Release */,
+				F75B1C4B214CEDD300E14B1D /* Debug */,
+				F75B1C4C214CEDD300E14B1D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -334,17 +334,17 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		F75B1C60214D47A700E14B1D /* MyMemory.xcdatamodeld */ = {
+		F75B1C3F214CEDD200E14B1D /* MyMemory.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				F75B1C61214D47A700E14B1D /* MyMemory.xcdatamodel */,
+				F75B1C40214CEDD200E14B1D /* MyMemory.xcdatamodel */,
 			);
-			currentVersion = F75B1C61214D47A700E14B1D /* MyMemory.xcdatamodel */;
+			currentVersion = F75B1C40214CEDD200E14B1D /* MyMemory.xcdatamodel */;
 			path = MyMemory.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
 /* End XCVersionGroup section */
 	};
-	rootObject = F75B1C4E214D47A700E14B1D /* Project object */;
+	rootObject = F75B1C2D214CEDD200E14B1D /* Project object */;
 }
